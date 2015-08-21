@@ -1,0 +1,29 @@
+.col-md-8{
+float:left;
+width:50%;
+
+}
+
+.page-header{
+
+margin: 0 0 0 0;
+}
+
+.row h3{
+margin: 0 0 10px 0;
+}
+
+.btn-contact{
+
+background-color:#428bca;
+padding: 9px;
+}
+
+.btn-contact:hover{
+
+color:#000;
+}
+
+textarea.form-control {
+height: 120px;
+}
