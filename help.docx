@@ -1,0 +1,17 @@
+1.Install XAMPP Control Panel and launch modules Apache and MySQL.
+2.Launch localhost/phpmyadmin to access the database.
+3.Enter this url in any web browser to access the start page: localhost/Web Project/index.php
+	Note: Make sure you are connected to the internet for accessing map APIs.
+4.Traverse through different web pages to explore content on the web portal
+
+//Traversing the website
+
+1.Click on login button to login as an existing user or signup as a new user.
+2.Zoom in/out of the map or search locations in the map search bar to explore different locations.
+3.Click on 'Search Rooms' to search for rooms, 'Search Roommates' to search roommates and 'Sell/Rent Rooms' to sell or rent your own room/flat/property.
+4.Upon signing up as a new user select either of the below:
+i.Signup as a roommate to access his/her privileges
+ii.Signup as an owner to upload content of your own room/property.
+5.Click on the top-right user name option to logout of the session or use the session as a different type of user.
+
+
